@@ -12,3 +12,4 @@
 * [40. 전세계에서 통하는 만능 전략 - 11월 매수, 4월 매도](notebooks/40-nov-to-apr.ipynb): stooq \+ fred 자료로 KOSPI \+ 한국금리를 받아서, 11월 매수 \+ 4월 매도가 한국에서 먹히는지 측정. AQR Data Library 에서 데이터를 받아 세계 각국에서 11월 매수 \+ 4월 매도가 먹히는지 측정
 * [43. 상승장과 하락장을 구분하는 비법!! - 평균모멘텀스코어](notebooks/43-average-momentum.ipynb): stooq \+ fred 자료로 KOSPI \+ 한국금리를 받아서, 11월 매수 \+ 4월 매도 + 평균 모멘텀 사용한 효과 알아보기
 * [45. 나라면 이런거 사겠다(4) 강환국 슈퍼가치전략](notebooks/45-super-value-korea.ipynb): 퀀트킹 자료로 저평가 지수들만 섞어서 순위를 매김
+* [48. 세상에서 가장 시니컬한 전략 ! 종가 매수, 시가 매도](notebooks/48-buy-close-sell-open.ipynb): stooq \+ investing.com 자료로 전세계 시장에서 종가매수 + 시가매도 전략을 테스트. 시장이 덜 성숙할수록 잘 먹힘.
